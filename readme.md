@@ -39,18 +39,10 @@
 <div align="center">
 <h3 align="center">Netster</h3>
   <p align="center">
-    project_description
+    Python-based Network application framework
     <br />
-    <a href="https://kiran-karandikar.github.io/Netster"><strong>Preview</strong></a>
+    <a href="https://github.com/Kiran-Karandikar/Netster/wiki/Netster"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/kiran-karandikar/Netster"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/kiran-karandikar/Netster">View Demo</a>
-    ·
-    <a href="https://github.com/kiran-karandikar/Netster/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/kiran-karandikar/Netster/issues">Request Feature</a>
   </p>
 </div>
 
@@ -89,8 +81,10 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-`Netster` is a Python-based network application framework that simplifies the use
-of various low-level network protocols and services. `HTTP Client, SMTP, DNS, Socket Programming, TCP/UDP File Transfer,
+`Netster` is a Python-based network application framework that simplifies the
+use
+of various low-level network protocols and
+services. `HTTP Client, SMTP, DNS, Socket Programming, TCP/UDP File Transfer,
 and RUDP` are some supported protocols/services.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -101,64 +95,14 @@ and RUDP` are some supported protocols/services.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project
-locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to
-install them.
-
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/kiran-karandikar/Netster.git
-   ```
-2. Additional Steps here...
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional
-screenshots, code examples and demos work well in this space. You may also link
-to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+_Refer to
+the [Documentation](https://github.com/Kiran-Karandikar/Netster/wiki/Netster)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP
-
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-	- [ ] Nested Feature
-
-See the [open issues](https://github.com/kiran-karandikar/Netster/issues) for a
-full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
--->
-
 
 
 <!-- LICENSE -->
