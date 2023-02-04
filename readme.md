@@ -39,13 +39,22 @@
 <div align="center">
 <h3 align="center">Netster</h3>
   <p align="center">
-    Python-based Network application framework
+    Python-based Network application framework    
+    <br />    
+    <a href="https://kiran-karandikar.github.io/Netster"><strong>Preview</strong></a>
     <br />
-    <a href="https://github.com/Kiran-Karandikar/Netster/wiki/Netster"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/kiran-karandikar/Netster"><strong>Explore the docs »</strong></a>
     <br />
+    <br />
+    <a href="https://github.com/kiran-karandikar/Netster">View Demo</a>
+    ·
+    <a href="https://github.com/kiran-karandikar/Netster/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/kiran-karandikar/Netster/issues">Request Feature</a>
   </p>
 </div>
 
+<!-- BADGES.MD Finish -->
 <!-- BADGES.MD Finish -->
 
 
@@ -126,3 +135,25 @@ Project
 Link: [https://github.com/kiran-karandikar/Netster](https://github.com/kiran-karandikar/Netster)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+### Other projects
+
+Check out the other stuff I've worked upon.
+
+- ___AI/ML/Data Science___
+
+  - **AML-Home-Credit-Default-Risk** : [Predicting how capable each applicant is of repaying a loan \(Kaggle Challenge\).](https://github.com/Kiran-Karandikar/AML-Home-Credit-Default-Risk)
+
+  - **Exercise-performance-analysis** : [Prototype exercise volume prediction using machine learning models.](https://github.com/Kiran-Karandikar/Exercise-performance-analysis)
+
+- ___Web Development___
+
+  - **flask-app-template** : [Simple, reusable, minimalistic, configurable flask app.](https://github.com/Kiran-Karandikar/flask-app-template)
+
+  - **flask-oauth2-wrike-api** : [A sample Flask app to authenticate with Wrike as a third-party OAuth2 provider.](https://github.com/Kiran-Karandikar/flask-oauth2-wrike-api)
+
+> Section `Other projects` is auto-updated using [Github actions](https://github.com/features/actions). 
+<!-- CONTACT -->
+## Contact
+
+- [Kiran Karandikar: khkarandikar at gmail dot com](mailto:khkarandikar@gmail.com)
