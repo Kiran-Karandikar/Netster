@@ -113,23 +113,6 @@ Distributed under the `MIT License`. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-<!-- CONTACT -->
-
-## Contact
-
-- [Kiran Karandikar](mailto:khkarandikar@gmail.com)
-
-Project
-Link: [https://github.com/kiran-karandikar/Netster](https://github.com/kiran-karandikar/Netster)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-
-
-
 ### Other projects
 
 Check out the other stuff I've worked upon.
